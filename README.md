@@ -10,8 +10,11 @@ Key Concepts and Challenges:
 
 1.Classifier Models: Utilizing Random Forest, Stochastic Gradient Descent, and Support
 Vector Classifier (SVC) for wine quality prediction.
+
 2.Chemical Qualities: Analyzing features like density and acidity as predictors for wine quality.
+
 3.Data Analysis Libraries: Employing Pandas for data manipulation and Numpy for array
 operations.
+
 4.Data Visualization: Using Seaborn and Matplotlib for visualizing patterns and insights in the
 dataset.
